@@ -153,7 +153,7 @@ INNER JOIN contas
     ON clientes.cliente_id = contas.cliente_id;
     
     
-SHOW CREATE TABLE contas;    
+  
     
     
 	
