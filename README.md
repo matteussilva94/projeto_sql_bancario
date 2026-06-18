@@ -154,3 +154,5 @@ Projeto desenvolvido como parte dos estudos em Análise de Dados e SQL para comp
 
 
 
+Última atualização: Junho/2026
+
